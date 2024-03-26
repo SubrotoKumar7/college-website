@@ -187,7 +187,7 @@
 }
 
 .dept-area .dept-container .dept-box:hover img{
-    box-shadow: 0 0 10px 5px royalblue;
+    box-shadow: 0 0 30px 7px #2c3e50;
     transform: translate( 0,-30px);
     transition: 1s;
 }
